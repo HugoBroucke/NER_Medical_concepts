@@ -25,7 +25,6 @@ scikit-learn==0.24.2
 scipy==1.7.0
 six==1.16.0
 sklearn==0.0
-smart-open==6.3.0
 spacy==3.0.6
 spacy-legacy==3.0.6
 srsly==2.4.1
@@ -35,4 +34,3 @@ tqdm==4.61.1
 typer==0.3.2
 urllib3==1.26.5
 wasabi==0.8.2
-wincertstore==0.2
