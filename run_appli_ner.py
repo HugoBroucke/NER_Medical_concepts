@@ -8,7 +8,7 @@ import bs4
 import pandas as pd
 import textdistance
 
-nlp = spacy.load(R"output_clean\model-best")
+nlp = spacy.load(R"output_clean/model-best")
 def analyze_text(text):
 	return nlp(text)
 
